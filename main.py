@@ -1,4 +1,4 @@
-__author__ = "7639047, Azimov, 7673555, Shavkatov"
+__author__ = "7639047, Azimov"
 
 from tkinter import *
 
@@ -676,3 +676,6 @@ program.cheeseCheck()
 program.createPrices()
 program.createButtons()
 root.mainloop()
+
+if __name__ == '__main__':
+    main()
